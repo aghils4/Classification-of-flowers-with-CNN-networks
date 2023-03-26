@@ -1,5 +1,5 @@
 # Classification-of-flowers-with-CNN-networks
-Solving a simple classification problem with cnn neural networks 
+Solving a simple classification problem with cnn neural networks(EfficientNetB6) 
 
 project_notebook.ipynb : Flower classification notebook
 
